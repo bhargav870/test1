@@ -7,4 +7,4 @@ print ("i like java")
       thirsty=input("are you thirsty")
       if thirsty=="yes":
       print:("print drink water")
-      
+      print:("print drink soda"
